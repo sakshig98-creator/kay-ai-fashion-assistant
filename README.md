@@ -1,3 +1,5 @@
+![KAY AI Fashion Assistant Case Study](images/KAY-AI-Banner.png)
+
 # 👗 KAY — AI Conversational Fashion Assistant & Recommender
 
 ### Product Management Case Study | ABOUT YOU
