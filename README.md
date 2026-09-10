@@ -780,7 +780,7 @@ The MVP is intentionally based primarily on:
 rather than a complex trained recommendation model.
 
 ---
-
+![KAY AI Technical Architecture](images/KAY-AI-Technical-Architecture_02.png)
 ## Phase 2 — ML + Computer Vision + Vector Search
 
 **Scope:** E8–E10
@@ -831,11 +831,11 @@ toward:
 
 > **"What does this shopper usually prefer, and how should that context improve this shopping session?"**
 
+![KAY AI Technical Architecture Evolution](images/KAY-AI-Technical-Architecture_03.png)
 ---
 
 ## Technology Evolution
 
-![KAY AI Technical Architecture Evolution](images/KAY-AI-Technical-Architecture_02.png)
 
 The overall technical progression is:
 
