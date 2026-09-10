@@ -1,22 +1,60 @@
-# KAY — AI Conversational Fashion Assistant & Recommender
+# 👗 KAY — AI Conversational Fashion Assistant & Recommender
 
 ### Product Management Case Study | ABOUT YOU
 
-> **From a shopping need to relevant, explainable and shoppable recommendations through natural conversation.**
+An AI Product Management case study exploring how ABOUT YOU's existing KAY customer-support assistant could be extended into a **conversational fashion discovery and product recommendation experience**, helping shoppers move from a natural shopping need to relevant, explainable and shoppable recommendations with less effort.
 
-KAY is a product concept exploring how ABOUT YOU's existing customer-support chatbot could be extended into an **AI-powered conversational fashion assistant and product recommender** within the ABOUT YOU mobile shopping experience.
+Created as part of the **Ironhack AI Product Management Bootcamp**
 
-Instead of requiring shoppers to translate what they have in mind into search terms, categories and multiple filters, KAY allows them to describe what they need naturally, receive relevant product recommendations, understand why those products match, refine the results conversationally, and continue toward purchase within the existing ABOUT YOU shopping journey.
+[![Interactive Prototype](https://img.shields.io/badge/📱_Interactive_Prototype-Launch-0A66C2?style=for-the-badge)](https://preview--kay-style-guide.lovable.app/)
+[![Read PRD](https://img.shields.io/badge/📄_Read_PRD-PDF-228B22?style=for-the-badge)](docs/KAY-Product-Requirements-Document.pdf)
+[![Discovery Report](https://img.shields.io/badge/🔎_Discovery_Report-PDF-8A2BE2?style=for-the-badge)](docs/KAY-Discovery-Report.pdf)
+[![Technical Architecture](https://img.shields.io/badge/🧠_Technical_Architecture-PDF-E67E22?style=for-the-badge)](docs/KAY-Technical-Architecture.pdf)
+[![Case Study](https://img.shields.io/badge/📊_Case_Study-Presentation-B22222?style=for-the-badge)](docs/KAY-Case-Study-Presentation.pdf)
 
 ---
 
-## 🔗 Quick Links
+# 📖 Overview
 
-- [📱 Open Interactive Prototype](https://preview--kay-style-guide.lovable.app/)
-- [📋 Read the Product Requirements Document](docs/KAY-Product-Requirements-Document.pdf)
-- [📘 Read the Discovery Report](docs/KAY-Discovery-Report.pdf)
-- [🧠 Read the Technical Architecture](docs/KAY-Technical-Architecture.pdf)
-- [🎤 View the Case Study Presentation](docs/KAY-Case-Study-Presentation.pdf)
+Fashion shoppers do not always begin with an exact product in mind. Sometimes they roughly know what they want — such as **"beige trousers for a summer day party"** — while at other times they need more guidance, such as **"help me find an outfit for a date night."**
+
+In this case study, I explored how ABOUT YOU's existing KAY customer-support experience could be extended into an **AI-powered conversational fashion assistant and product recommender**.
+
+KAY allows shoppers to express their needs naturally, receive relevant product recommendations, understand **why** those products match, refine their options conversationally, and continue toward purchase within the existing ABOUT YOU shopping journey.
+
+> **Ask → Understand → Recommend → Explain → Refine → View Product → Add to Bag**
+
+---
+
+# 🚀 Project at a Glance
+
+| | |
+|---|---|
+| 👗 **Product** | KAY — AI Fashion Assistant & Recommender |
+| 🏢 **Company Context** | ABOUT YOU |
+| 🎯 **Objective** | Reduce friction between a shopper's natural fashion need and relevant product discovery |
+| 👤 **Primary Persona** | Lea — 27-year-old young professional and frequent mobile fashion shopper |
+| 📱 **Platform** | Mobile App |
+| 🏷️ **Industry** | Fashion E-commerce |
+| 🤖 **Product Type** | Conversational AI Fashion Assistant & Product Recommender |
+| 📦 **MVP** | Conversational Discovery · Intent Understanding · Product Recommendations · Explainability · Refinement · Fashion Guidance · Add to Bag |
+| 🛠️ **My Role** | Product Discovery · Competitive Analysis · Product Strategy · PRD · MVP Scoping · Story Mapping · Roadmap · AI Architecture · Prototype |
+| 🧪 **Prototype** | Lovable |
+| 🚀 **Future Vision** | Image Discovery · Advanced Recommendations · Persistent Style Profile · Multimodal Interaction · Personalization |
+
+---
+
+# 💡 Product Opportunity
+
+KAY already supports customer-service needs within the ABOUT YOU experience.
+
+The opportunity explored in this case study is to **extend KAY's role** beyond support into conversational fashion discovery — while retaining its existing support capabilities.
+
+Instead of replacing traditional search and filters, KAY complements them by providing another way to shop when users want to express their needs naturally or need guidance deciding what to buy.
+
+### Positioning
+
+> **KAY brings conversational fashion guidance directly into the ABOUT YOU shopping journey, helping shoppers move from "what do I need?" to relevant, explainable and shoppable recommendations with less effort.**
 
 ---
 
