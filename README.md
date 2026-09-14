@@ -918,7 +918,7 @@ The prototype explores interactions including:
 
 ### 📱 Try the Prototype
 
-👉 **[Open KAY Interactive Prototype](https://preview--kay-style-guide.lovable.app/)**
+👉 **[Open KAY Interactive Prototype](https://kay-style-guide.lovable.app)**
 
 > The prototype demonstrates product behaviour and user experience. It does not represent a production implementation of the proposed AI, product catalogue, recommendation or infrastructure architecture.
 
