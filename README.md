@@ -8,7 +8,7 @@ An AI Product Management case study exploring how ABOUT YOU's existing KAY custo
 
 Created as part of the **Ironhack AI Product Management Bootcamp**
 
-[![Interactive Prototype](https://img.shields.io/badge/📱_Interactive_Prototype-Launch-0A66C2?style=for-the-badge)](https://preview--kay-style-guide.lovable.app/)
+[![Interactive Prototype](https://img.shields.io/badge/📱_Interactive_Prototype-Launch-0A66C2?style=for-the-badge)]([https://preview--kay-style-guide.lovable.app/](https://kay-style-guide.lovable.app))
 [![Read PRD](https://img.shields.io/badge/📄_Read_PRD-PDF-228B22?style=for-the-badge)](docs/KAY-Product-Requirements-Document.pdf)
 [![Discovery Report](https://img.shields.io/badge/🔎_Discovery_Report-PDF-8A2BE2?style=for-the-badge)](docs/KAY-Discovery-Report.pdf)
 [![Technical Architecture](https://img.shields.io/badge/🧠_Technical_Architecture-PDF-E67E22?style=for-the-badge)](docs/KAY-Technical-Architecture.pdf)
