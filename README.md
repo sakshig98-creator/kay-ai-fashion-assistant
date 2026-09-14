@@ -956,7 +956,7 @@ These opportunities would be explored only after validation of the core roadmap.
 | 📋 [Product Requirements Document](docs/KAY-Product-Requirements-Document.pdf) | Product vision, persona, JTBD, MVP requirements, epics, roadmap, metrics, risks, Responsible AI and privacy |
 | 🧠 [Technical Architecture](docs/KAY-Technical-Architecture.pdf) | Proposed technical evolution across conversational AI, ML/image discovery and personalization |
 | 🎤 [Case Study Presentation](docs/KAY-Case-Study-Presentation.pdf) | Visual presentation of the problem, solution, research, roadmap, metrics, architecture and prototype |
-| 📱 [Interactive Prototype](https://preview--kay-style-guide.lovable.app/) | Lovable mobile prototype of the KAY experience |
+| 📱 [Interactive Prototype](https://kay-style-guide.lovable.app) | Lovable mobile prototype of the KAY experience |
 
 ---
 
